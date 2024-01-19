@@ -1,4 +1,4 @@
-# # Submission: Diabetes Classification
+## Submission: Diabetes Classification
 
 Nama: William Hilmy Susatyo
 
